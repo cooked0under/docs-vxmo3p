@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-qaskgb.kujang138btc.space/sitemap.xml
